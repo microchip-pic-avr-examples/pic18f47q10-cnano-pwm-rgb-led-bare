@@ -3,24 +3,24 @@
     "category": "com.microchip.ide.project",
     "content": {
         "metaDataVersion": "1.1.0",
-        "name": "com.microchip.mcu8.mplabx.project.",
-        "version": " ",
-        "displayName": "  ",
-        "projectName": "",
-        "shortDescription": "",
+        "name": "com.microchip.mcu8.mplabx.project.pic18f47q10-cnano-pwm-rgb-led-mcc",
+        "version": "1.0.2",
+        "displayName": "Driving RGB-LEDs Using PWM and Interrupts",
+        "projectName": "pic18f47q10-cnano-pwm-rgb-led-mcc",
+        "shortDescription": "In this demo, the CCP1, CCP2 and PWM3 peripherals in conjunction with TMR2 are used to produce PWM signals featuring a color game on an RGB LED. Three GPIO pins are used as outputs: RB0, RB3 and RD0.",
         "ide": {
-            "name": "",
-            "semverRange": ""
+            "name": "MPLAB X",
+            "semverRange": ">=5.30.0"
         },
         "compiler": [
 			{
-				"name": "",
-				"semverRange": ""
+				"name": "XC8",
+				"semverRange": "^2.10.0"
 			}
 		],
         "dfp": {
-            "name": "",
-            "semverRange": ""
+            "name": "PIC18F-Q_DFP",
+            "semverRange": "^1.3.89"
         },
         "configurator": {
             "name": "",
@@ -32,26 +32,27 @@
             "content": {
                 "metaDataVersion": "1.0.0",
                 "category": "com.microchip.device",
-                "name": "",
+                "name": "PIC18F47Q10",
                 "versionRange": "*"
             }
         },
-        "author": "",
+        "author": "Microchip",
         "subcategories": [
-            "",
+            "Peripherals",
             [
-               "Peripherals", ""
-            ],
-            [
-               "Peripherals", ""
+               "Peripherals", "PWM",
             ]            			
         ],
         "peripherals": [
-            "",""
+            "PWM",
         ],
         "keywords": [
-            "",
-            ""			
+            "Getting Started",
+            "CCP2",
+			"CCP1",
+			"PWM3",
+			"RGB",
+			"Driving LEDs",
         ],
 		"additionalData": {
 			"longDescription": {
