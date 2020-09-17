@@ -44,7 +44,7 @@
             ]            			
         ],
         "peripherals": [
-            "PWM",
+            "PWM"
         ],
         "keywords": [
             "Getting Started",
