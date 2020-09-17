@@ -49,10 +49,10 @@
         "keywords": [
             "Getting Started",
             "CCP2",
-			"CCP1",
-			"PWM3",
-			"RGB",
-			"Driving LEDs"
+            "CCP1",
+            "PWM3",
+            "RGB",
+            "Driving LEDs"
         ],
 		"additionalData": {
 			"longDescription": {
