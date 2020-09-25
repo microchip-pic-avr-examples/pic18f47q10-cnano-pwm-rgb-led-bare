@@ -5,7 +5,7 @@
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.pic18f47q10-cnano-pwm-rgb-led-mcc",
         "version": "1.0.2",
-        "displayName": "Driving RGB-LEDs Using PWM and Interrupts",
+        "displayName": "Driving RGB-LEDs Using PWM and Interrupts (MCC)",
         "projectName": "pic18f47q10-cnano-pwm-rgb-led-mcc",
         "shortDescription": "In this demo, the CCP1, CCP2 and PWM3 peripherals in conjunction with TMR2 are used to produce PWM signals featuring a color game on an RGB LED. Three GPIO pins are used as outputs: RB0, RB3 and RD0.",
         "ide": {
@@ -38,7 +38,6 @@
         },
         "author": "Microchip",
         "subcategories": [
-            "Peripherals",
             [
                "Peripherals", "PWM"
             ]            			
